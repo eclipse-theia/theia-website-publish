@@ -1,1 +1,1 @@
-<?php header('Location: http://eclipse.org/projects/project.php?id=ecd.theia'); ?>
+<?php header('Location: https://theia-ide.org/'); ?>
